@@ -43,3 +43,7 @@ Notion (documentation, backlog, dashboard)
 Google Sheets (timeline, Gantt chart)
 
 Agile frameworks (Scrum, MoSCoW prioritization)
+
+**View:**
+View full project plan on Notion: https://app.notion.com/p/Project-Management-TeamFlow-MVP-c964a86f98088346bc70018dd6d0f262?source=copy_link
+
